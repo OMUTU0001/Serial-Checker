@@ -1,6 +1,6 @@
-:a
+:Niggerdekusa
 @echo off
-title OMUTU#4545
+title OMUTU#0001
 mode con: cols=70 lines=60
 color 08
 echo                                                 MU-NI- Serial Checker
@@ -40,4 +40,4 @@ wmic path Win32_NetworkAdapter where "PNPDeviceID like '%%PCI%%' AND NetConnecti
 echo.
 pause
 
-goto a
+goto Niggerdekusa
